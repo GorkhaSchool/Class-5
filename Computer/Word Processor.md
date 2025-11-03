@@ -1,5 +1,5 @@
 # Word Processor
-## Answer Questions
+## 3. Answer Questions
 ### Write two ways for selecting text in MS word.
 Two ways to select text in MS Word are:
 
@@ -53,3 +53,9 @@ Steps:
 - Go to Insert → Symbol → More Symbols
 - Select a symbol
 - Click Insert.
+
+## 4. Full Forms
+- CD - Compact Disc
+- RAM - Random Access Memory
+- CPU - Central Processing Unit
+- PC - Personal Computer
