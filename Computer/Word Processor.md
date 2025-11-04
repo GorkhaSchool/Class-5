@@ -1,18 +1,18 @@
 # Word Processor
 ## 3. Answer Questions
-### Write two ways for selecting text in MS word.
+### a. Write two ways for selecting text in MS word.
 Two ways to select text in MS Word are:
 
 - Drag the mouse over the text.
 - Hold Shift and use arrow keys.
 ---
-### Which are basic three font styles?
+### b. Which are basic three font styles?
 The basic three font style are:
 - Bold
 - Italic
 - Underline
 ---
-### How many change case options are available in MS Word ? Write their names.
+### c. How many change case options are available in MS Word ? Write their names.
 There are 5 change case options available. They are:
 - Sentence case
 - lowercase
@@ -20,7 +20,7 @@ There are 5 change case options available. They are:
 - Capitalize Each Word
 - tOGGLE cASE
 ---
-### How many alignments are available in MS Word? How can we insert page brake in MS Word?
+### d. How many alignments are available in MS Word? How can we insert page brake in MS Word?
 There are 4 alignments available. They are:
 - Left
 - Center
@@ -30,7 +30,7 @@ There are 4 alignments available. They are:
 We can insert page brake by:
 - Press Ctrl + Enter Or go to Insert → Page Break
 ---
-### Write about shapes. Write the steps to insert shapes.
+### e. Write about shapes. Write the steps to insert shapes.
 Shapes are ready-made drawing objects like lines, arrows, circles, etc.
 Steps:
 
@@ -38,7 +38,7 @@ Steps:
 - Select a shape
 - Click and drag on the page to draw it.
 ---
-### Write about word art. Write the steps to add word art.
+### f. Write about word art. Write the steps to add word art.
 WordArt is used to make decorative text.
 Steps:
 
@@ -46,7 +46,7 @@ Steps:
 - Choose a style
 - Type your text.
 ---
-### Write about symbols. Write the steps to insert symbols.
+### g. Write about symbols. Write the steps to insert symbols.
 Symbols are special characters not on the keyboard.
 Steps:
 
